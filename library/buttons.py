@@ -6,7 +6,7 @@ home_button = [
     [
         InlineKeyboardButton("🌏 Source", "source_btn"),
         InlineKeyboardButton("⬇️  Fr. Id", "from_btn"),
-        InlineKeyboardButton("❓ Help", url="https://bit.ly/3z2jquF")
+        InlineKeyboardButton("❓ Help", url="https://telegra.ph/Clonebot-UI-Help-05-30")
     ],
     [
         InlineKeyboardButton("🎯 Target", "target_btn"),
@@ -35,7 +35,7 @@ home_button = [
 
 start_button = [
     [
-        InlineKeyboardButton("🏅 GitHub 🏅", url="github.com/m4mallu/clonebot"),
+        InlineKeyboardButton("🏅 ᴅᴇᴠᴇʟᴏᴘᴇʀ 🏅", url="https://telegram.dog/MR_X_MIRROR"),
         InlineKeyboardButton("⚙️Settings ⚙", "start_btn")
     ]
 ]
@@ -84,8 +84,8 @@ close_button = [
 
 terminate_btn = [
     [
-        InlineKeyboardButton("🧸 Updates", url="https://github.com/m4mallu/clonebot"),
-        InlineKeyboardButton("❓ Usage", url="https://bit.ly/3z2jquF")
+        InlineKeyboardButton("🧸 Updates", url="https://telegram.dog/MR_X_MIRROR"),
+        InlineKeyboardButton("❓ Usage", url="https://telegra.ph/Clonebot-UI-Help-05-30")
     ],
     [
         InlineKeyboardButton("🚫 Terminate", "terminate_btn"),
