@@ -1,8 +1,8 @@
-# ----------------------------------- https://github.com/m4mallu/clonebot --------------------------------------------#
+# ----------------------------------- https://github.com/MR-X-MIRROR-BOTZ/MR-X-CLONE-BOT --------------------------------------------#
 class Presets(object):
-    START_TEXT = "𝙃𝙚𝙡𝙡𝙤... {}\n𝐼 𝑐𝑎𝑛 𝑐𝑙𝑜𝑛𝑒 𝑚𝑒𝑑𝑖𝑎 𝑓𝑟𝑜𝑚 𝑎𝑛𝑦 𝑐ℎ𝑎𝑡 𝑡𝑜 𝑦𝑜𝑢𝑟 " \
-                 "𝑝𝑒𝑟𝑠𝑜𝑛𝑎𝑙 𝑐ℎ𝑎𝑡 ! 𝐶𝑙𝑖𝑐𝑘 𝑠𝑒𝑡𝑡𝑖𝑛𝑔𝑠 𝑡𝑜 𝑐𝑜𝑛𝑓𝑖𝑔𝑢𝑟𝑒 𝑚𝑒. 𝐼𝑓 𝑦𝑜𝑢 " \
-                 "𝑙𝑖𝑘𝑒 𝑚𝑒, 𝑝𝑙𝑒𝑎𝑠𝑒 𝑔𝑖𝑣𝑒 𝑎 𝑠𝑡𝑎𝑟 𝑖𝑛 𝑚𝑎 𝐺𝑖𝑡𝐻𝑢𝑏 𝑟𝑒𝑝𝑜. 𝑇ℎ𝑎𝑛𝑘𝑠 "
+    START_TEXT = "𝐇𝐞𝐥𝐥𝐨... {}\n𝐌𝐲 𝐍𝐚𝐦𝐞 𝐈𝐬 𝐌𝐑 𝐗 𝐂𝐋𝐎𝐍𝐄 𝐁𝐎𝐓\\n𝐈 𝐂𝐚𝐧 𝐂𝐥𝐨𝐧𝐞 𝐌𝐞𝐝𝐢𝐚 𝐅𝐫𝐨𝐦 𝐀𝐧𝐲 𝐂𝐡𝐚𝐧𝐧𝐞𝐥 𝐓𝐨 𝐘𝐨𝐮𝐫 𝐂𝐡𝐚𝐧𝐧𝐞𝐥𝑟 " \
+                 "𝐏𝐞𝐫𝐬𝐨𝐧𝐚𝐥 𝐂𝐡𝐚𝐭 ! 𝐂𝐥𝐢𝐜𝐤 𝐒𝐞𝐭𝐭𝐢𝐧𝐠𝐬 𝐓𝐨 𝐂𝐨𝐧𝐟𝐢𝐠𝐮𝐫𝐞 𝐌𝐞. 𝐈𝐟 𝐘𝐨𝐮 " \
+                 "𝐋𝐢𝐤𝐞 𝐓𝐡𝐢𝐬 𝐁𝐨𝐭 𝐂𝐨𝐧𝐭𝐚𝐜𝐭 𝐌𝐞 !. @MR_X_MIRROR "
     WELCOME_TEXT = "⭑⭑★✪ HELP for more info: ✪★⭑⭑"
     MESSAGE_COUNT = """
 ╭──────⌈ 📥 Cloning ⌋──────╮<code>
@@ -12,7 +12,7 @@ class Presets(object):
 ├ Time taken - {} {}
 ├ Clone started - {}
 ├ Last updated  - {}</code>
-├  🔰 <a href='t.me/RMProjects'><b>@RMProjects</b></a> || 🏅 <a href='https://github.com/m4mallu/clonebot-ui'><b>@Github</b></a>
+├  🔰 <a href='https://telegram.dog/MR_X_MIRROR'><b>@MR_X_MIRROR</b></a> || 🏅 <a href='https://telegram.dog/MR_X_CLONE'><b>@MR_X_CLONE</b></a>
 ╰──────⌈ 💢 Clonebot ⌋─────╯"""
     DUPLICATE_INDEX = """
 ╭──────⌈ ⚠️ Skipping ⌋──────╮<code>
@@ -52,7 +52,7 @@ You have selected:
 𝐅𝐫𝐨𝐦 𝐦𝐬𝐠 𝐈𝐝 : {} | 𝐓𝐨 𝐦𝐬𝐠 𝐈𝐝 : {}
 𝐃𝐞𝐥𝐚𝐲𝐞𝐝 : {} | 𝐂𝐚𝐩𝐭𝐢𝐨𝐧 : {}"""
     FILE_TYPES = ["document", "video", "audio", "voice", "photo", "text"]
-    COPIED_MESSAGES = "<b><a href='https://github.com/m4mallu/clonebot'>Medias Copied</a></b>"
+    COPIED_MESSAGES = "<b><a href='https://telegram.dog/MR_X_MIRROR'>Medias Copied</a></b>"
     IN_CORRECT_PERMISSIONS_MESSAGE_DEST_POSTING = "A̶c̶c̶e̶s̶s̶ ̶D̶e̶n̶i̶e̶d̶\n\n𝘜𝘴𝘦𝘳 𝘪𝘴 𝘯𝘰𝘵 𝘢𝘯 𝘢𝘥𝘮𝘪𝘯 𝘰𝘳 𝘥𝘰𝘦𝘴𝘯'𝘵 𝘩𝘢𝘷𝘦\n" \
                                                   "𝘱𝘰𝘴𝘵𝘪𝘯𝘨 𝘱𝘳𝘪𝘷𝘪𝘭𝘢𝘨𝘦𝘴 𝘪𝘯 𝘵𝘩𝘦 𝘨𝘪𝘷𝘦𝘯 𝘤𝘩𝘢𝘵"
     USER_ABSENT_MSG = "𝙎𝙚𝙨𝙨𝙞𝙤𝙣 𝙪𝙨𝙚𝙧 𝙞𝙨 𝙣𝙤𝙩 𝙞𝙣 𝙩𝙝𝙚 𝙩𝙖𝙧𝙜𝙚𝙩 𝙘𝙝𝙖𝙩 𝙜𝙞𝙫𝙚𝙣"
@@ -177,7 +177,7 @@ Ended at Id   - {}
 📝 Text                  - {}
 ⚠️ Duplicates       - {}
 
-<u><b>Credits:</u></b> https://github.com/m4mallu
+<u><b>𝐂𝐫𝐞𝐝𝐢𝐭𝐬 :</u></b> @MR_X_MIRROR
 """
     GET_CHAT_ID_MSG = "<b>You have been forwaded a message\nfrom a chat having the id:</b>\n\n<code>{" \
                       "}</code>\n<b>Message Id: </b><code>{}</code>\n\n<i>Tap the above text to copy !</i> "
