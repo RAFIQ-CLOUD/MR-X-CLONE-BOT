@@ -4,7 +4,7 @@
   "keywords": ["telegram", "best", "Media", "cloning", "copying", "robot"],
   "logo": "https://telegra.ph/file/4465f70fde80fda8d65fb.png",
   "website": "https://github.com/MR-X-MIRROR-BOTZ/MR-X-CLONE-BOT",
-  "repository": "https://github.com/Your-Fork-URL",
+  "repository": "https://github.com/RAFIQ-CLOUD/MR-X-CLONE-BOT",
   "env": {
         "APP_ID": {"description": "Get this value from https://my.telegram.org", "required": true},
         "API_HASH": {"description": "Get this value from https://my.telegram.org" , "required": true},
