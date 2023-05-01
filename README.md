@@ -22,7 +22,7 @@ Read the <a href="https://telegra.ph/Clonebot-UI-Help-05-30" target="_blank"> do
     <br>
         4. Finally, deploy it from your own fork (<a href="https://telegra.ph/Attention-to-clone-bot-users-08-01" target="_blank">Risk factor</a>).
     <br><br>
-      <a href="https://heroku.com/deploy?template=https://github.com/MR-X-MIRROR-BOTZ/MR-X-CLONE-BOT" target="_blank">
+      <a href="https://heroku.com/deploy?template=https://github.com/RAFIQ-CLOUD/MR-X-CLONE-BOT" target="_blank">
         <img height="30px" src="https://img.shields.io/badge/Deploy%20to-Heroku-orange"></a>
     <br><br>
     <a href="https://t.me/MR_X_CLONE" target="_blank">@MR_X_MIRROR</a>
