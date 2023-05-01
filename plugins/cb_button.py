@@ -1,4 +1,4 @@
-# ----------------------------------- https://github.com/m4mallu/clonebot ---------------------------------------------#
+# ----------------------------------- https://github.com/MR-X-MIRROR-BOTZ/MR-X-CLONE-BOT ---------------------------------------------#
 import sys
 from bot import Bot
 from library.sql import *
