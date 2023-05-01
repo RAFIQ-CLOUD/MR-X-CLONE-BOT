@@ -1,4 +1,4 @@
-#----------------------------------- https://github.com/m4mallu/clonebot --------------------------------------------#
+#----------------------------------- https://github.com/MR-X-MIRROR-BOTZ/MR-X-CLONE-BOT --------------------------------------------#
 import os
 from pyrogram import Client
 from pyrogram.enums import ParseMode
