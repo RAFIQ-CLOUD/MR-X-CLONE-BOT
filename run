@@ -1,9 +1,9 @@
 echo
 echo
-echo "Credits: m4mallu> https://github.com/m4mallu"
+echo "Credits: @MR_X_MIRROR"
 echo
 echo "Installing requirements, please wait..."
 pip3 install -r requirements.txt > /dev/null
-echo "Done! Starting the bot..."
+echo "Done! Starting the MR X CLONE BOT..."
 echo
 python3 main.py
