@@ -127,9 +127,6 @@ async def clone_medias(bot: Bot, m: Message):
                                     file_name = None
                             elif bool(default_caption):
                                 caption = messages.caption
-                                #
-                                except Exception:
-                                    caption = str()
                             else:
                                 caption = str()
                             #
