@@ -122,7 +122,7 @@ async def clone_medias(bot: Bot, m: Message):
                                 caption = messages.caption
                             elif bool(fn_caption):
                                 try:
-                                    caption = str(file_name).rsplit('.', 1)[0]
+                                    caption = str(file_name).rsplit('.', 1)[0]] + "\n\nᴍᴀᴅᴇ ᴡɪᴛʜ ❤️ ʙʏ @MR_X_MIRROR"
                                 except Exception:
                                     caption = str()
                             else:
